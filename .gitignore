@@ -1,0 +1,25 @@
+# Private source material (including the original CV)
+/reference/
+/Lebenslauf_Maystorov_Praktikum.pdf
+
+# Local agent configuration and credentials
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files, local caches and logs
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
