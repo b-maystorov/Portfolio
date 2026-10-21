@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>BM</title>
+  <path fill="#f4f7fc" fill-rule="evenodd" d="M4 14H22L29 21V28L25 32L29 36V43L22 50H4ZM11 21V28H19L22 25V24L19 21ZM11 36V43H19L22 40V39L19 36Z"/>
+  <path fill="#f4f7fc" d="M35 50V14H42L48 27L54 14H61V50H54V29L48 41L42 29V50Z"/>
+  <path fill="#71dcfa" d="M54 14H61V21H51Z"/>
+</svg>

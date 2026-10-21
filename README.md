@@ -51,7 +51,12 @@ Entrance-Animationen nie dauerhaft versteckt.
 vom Preview-Server bedient. Original-CV, Cover, extrahierter CV-Text und private
 Inhaltsfragen liegen dort. Der CV ist die Quelle für Zeiträume, Einrichtungen,
 Berufsweg und Sprachen. Straße, Telefonnummer, Signatur und Original-PDF sind
-nicht in `dist/` enthalten. Es gibt keinen CV-Download.
+nicht in `dist/` enthalten. Der Download im Lebenslauf-Abschnitt verweist nur auf
+die ausdrücklich für die Website bereitgestellte Version
+`dist/assets/Bilgin_Maystorov_Lebenslauf_Web.pdf`. Die gelieferte Quelldatei
+`Bilgin_Maystorov_Lebenslauf_Web_private.pdf` liegt geschützt in `reference/`.
+Zum Aktualisieren nur die öffentliche Web-PDF ersetzen; das private Original
+niemals als Download verwenden.
 
 ## Projekt- und Bildquellen
 
